@@ -1,6 +1,6 @@
 package myHomeWork1;
 
-public class HomeWork1 {
+public class gHomeWork1 {
 
 	public static void main(String[] args) {
 		String Name = "Adnan S Shams";
@@ -8,7 +8,7 @@ public class HomeWork1 {
 		
 		System.out.println(Name);
 		System.out.println(Address);
-		
+		//this is a new line
 
 	}
 
